@@ -1,4 +1,4 @@
-# FaceRecognitionOpenCV
+# Face Recognition OpenCV
 
 A Desktop application for doing a detection of people, using web camera,
 and recognize them with local data(names + pictures) for marking them live.
